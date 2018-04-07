@@ -30,5 +30,6 @@ Any pull request or constructive feedback is welcome :-)
 
 
 ## Next improvements:
-* Dockerize vnstat.
+* Dockerize vnstat. Although it already exists...
+    * https://hub.docker.com/r/vimagick/vnstat/
 * Integrate GitHub push with Docker hub.
