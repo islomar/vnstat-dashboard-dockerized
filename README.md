@@ -10,7 +10,11 @@ Any pull request or constructive feedback is welcome :-)
     * https://docs.docker.com/install/
 * `vnstat` should be installed:
     * https://www.linuxbabe.com/monitoring/install-vnstat-debian-8ubuntu-16-04-server-monitor-network-traffic
+    * https://humdi.net/vnstat/man/vnstatd.html
     * https://github.com/vergoh/vnstat
+    * Remember to execute:
+        * `sudo chmod o+x /usr/bin/vnstat`
+        * `sudo chmod o+wx /var/lib/vnstat/`
 
 
 ## How to run it
@@ -24,3 +28,4 @@ Any pull request or constructive feedback is welcome :-)
 
 ## Next improvements:
 * Dockerize vnstat.
+* Integrate GitHub push with Docker hub.
