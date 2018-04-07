@@ -4,7 +4,7 @@ Dockerized version of **vnstat-dashboard** (https://github.com/alexandermarston/
 
 vnstat-dashboard is a web application (based on PHP and Apache) which shows the **network monitoring** results taken by `vnstat` (by hour, day, month...).
 
-My goal is to make a pull request to the vnstat-dashboard repository, but in the meantime I have created this repo.
+I have opened a pull request to the vnstat-dashboard repository (https://github.com/alexandermarston/vnstat-dashboard/pull/9), but while it's accepted (or in cas it is not) I have created this repo.
 
 Any pull request or constructive feedback is welcome :-)
 
